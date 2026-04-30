@@ -13,6 +13,13 @@ body {
   color: #272829;
 }
 
+.medium-logo-2024 {
+  width: 1.05em;
+  height: 1em;
+  fill: currentColor;
+  vertical-align: -0.08em;
+}
+
 a {
   color: #0f81b5;
   text-decoration: none;
